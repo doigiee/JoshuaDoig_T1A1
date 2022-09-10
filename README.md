@@ -28,6 +28,7 @@ Finally, domains and DNS (domain name system) works as a foundation of the inter
 
 
 ## Q3 Define the features of the following technologies that are essential in terms of the development of the internet: TCP, HTTP and HTTPS, web browsers and explain how each technology has contributed to the development of client and server communication over the internet.
+
 TCP (or transmitting control protocol) has many features including: ensuring data delivery to the application device or application and reliable service given through five functions; Segmentation, connection multiplexing, three-way handshake, sequencing and acknowledgment, and flow control through windowing (TCP Features and Functions Explained with Examples, 2022). TCP breaks down data from large packets into smaller then organizes data so that it can be transmitted between a server and a client. Before transmitting data, TCP establishes and maintains a secure connection between the source and its destination throughout the transferral (What is Transmission Control Protocol TCP/IP Model?, 2022). 
 Thus, TCP guarantees secure, swift and reliable communication between client and servers over the internet (What is Transmission Control Protocol TCP/IP Model?, 2022).
 
@@ -40,6 +41,7 @@ Ultimately, Web browsers enable the displaying of numerous kinds of information 
 
 
 ## Q4 Identify THREE data structures used in the Python programming language and explain the reasons for using each.
+
 Three basic data structures used in Python Programming include: lists, sets and tuples which are all array data structures. Each is unique with some similarities and each is used to organise and group data (Python Data Structures, 2022). Lists are used to store any data type which can be mutable and any data type can be stored within. Sets are an unordered collection of distinct immutable objects. Finally, Tuples are an immutable ‘collection of values separated by comma and enclosed in parentheses’ (Yıldırım, 2021).
 
 Once developers understand these data structures they can use them to collect and store data, carry out advanced operations and design algorithms (Yıldırım, 2021). Example applications of each include, a developer using lists to: have a concise way to create a list representing objects or items and then carry out operations that satisfy certain conditions. Sets can be used can in the real world to: include quick membership testing and eliminating duplicate entries in a data system. Finally, an application of tuples is using them as keys (Data Structures — Python 3.10.6 documentation, 2022). Furthermore, lists; are used in JSON Format and array operations, tuples are used in parentheses checker and insert records into databases through SQL queries and sets are used to join operations and find unique elements (Kumar, 2022).
@@ -49,6 +51,7 @@ Additionally, another data structure is an integer. Simply put, integers are the
 
 
 ## Q5 Describe the features of interpreters and compilers and how they are different.
+
 Compilers and interpreters are programs used to covert source code into codes which can be interpreted by computers. As discussed in our lectures and from this article, high level language (source code) is for humans to understand, so it’s necessary for compilers and interpreters to covert source code for computers to interpret the code (Difference between Compiler and Interpreter, 2019).
 
 Interpreters and Compilers are very similar in the fact that they are used to translate statements of a program into machine code. However, interpreters translate just one statement of the program at a time while compilers scan the entire program and translate the whole into machine code at once. An interpreter takes less time to analyse the source code though the overall time to execute the process is much slower (Difference between Compiler and Interpreter, 2019). 
@@ -87,7 +90,8 @@ For this case, it’s obvious that any company or IT professional should take da
 
 
 
-## Q8 Explain control flow, using examples from the Python programming language
+## Q8 Explain control flow, using examples from the Python programming language.
+
 Control flow refers to the order which a program executes code. In the case of Python, it is determined by conditional statements, loops and functional calls. These statements are represented by the clauses ‘if’, ‘elif’, ‘else’ and ‘while’ (Python in a Nutshell, 2022). When there are multiple statements it’s the clauses which determine when the block of statements terminates or loops infinitely which is why these clauses are important. Examples of these clauses can be represented as follows (Python in a Nutshell, 2022): 
 
 if expression:
@@ -109,12 +113,14 @@ To explain further, an ‘if’ statement checks the value of a Boolean statemen
 
 
 ## Q9 Explain the difference between type coercion and type conversion. Are either of these used in Python?
+
 Type coercion and type conversion are similar in that they both convert data types from one data type into another; such as strings to numbers or integer to string. Though the key difference between the two is that type coercion is automatic and implicit whilst type conversion differs in that it can be implicit or explicit (Difference between Compiler and Interpreter, 2019). 
 
 Python uses a few types of implicit coercions to concatenate such as: mathematical operations, when adding integers and floats the answer will automatically be represented as a float thus changing the integer into a float as to not lose the decimal value, and also after using ‘print ( )’ when combining strings and non-strings as Python will automatically convert the non-string it to a string (Flury, 2015).Thus, when using python, engineers will most frequently have to explicitly convert one data type into another manually through executing commands. The command to change a data type into another most often requires the newly desired data type to be followed by the data type wishing to be transformed into contained within parenthesis. Some of these commands may include: ‘int (a, base)’- converts any data type to an integer, ‘float()’- to convert any data type into a floating point number, ‘ord()’ - .. a character into an integer, ‘hex()’ ... any integer into a hexadecimal string, ‘oct()’ – integer to octal string, ‘tuple()’- to a tuple, ‘set()’- returns the type after converting to set, ‘list()’- any data type into a list, ‘str()’- to convert an integer into a string and as so on (Type Conversion in Python - GeeksforGeeks, 2022). Though it’s notable to mention that there is the possibility to lose some data when manually forcing the transferal of one data type to another (Type Conversion in Python - GeeksforGeeks, 2022).
 
 
-## Q10 Explain data types, using examples
+## Q10 Explain data types, using examples.
+
 There are many data types, some of which have been mentioned in previous answers, though this answer will attempt to delve deeper into their meaning and functions as well as provide some examples of data types used in Python. 
 
 Five commonly used data types, used across most programming languages, include: integer (this includes whole numbers e.g. -10, 54, 324), Floating point numbers or decimal numbers (which could be represented by -100.5, 0.0, 71.234567), strings (a sequence of characters e.g. “Hi my name is Bob”), Booleans (logical true or false statements) and finally, nothing (represented by null - meaning no data) (Busbee and Braunschweig, 2022). These data types function relatively similar when compared between programming languages and through expert application these data types can, when formatted correctly, allow programmers to accomplish great achievements.
@@ -172,6 +178,7 @@ The function of each is as follows: floats are true numbers with floating-point 
 
 
 ## Q11 Here’s the problem: “There is a restaurant serving a variety of food. The customers want to be able to buy food of their choice. All the staff just quit, how can you build an app to replace them?” Identify the classes you would use to solve the problem and write a short explanation of why you would use the classes you have identified.
+
 I would need to build an app which:
 1. Greets the customers 
 2. Lists the menu items
@@ -188,6 +195,7 @@ Finally I’d like my app to be full of sprites, animations, visual effects and 
 
 
 ## Q12 Identify and explain the error in the code snippet below that is preventing correct execution of the program.
+
 The first problem I’m seeing is that python is unable to combine a string and a integer “TypeError: unsupported operand type(s) for /: 'str' and 'int'”. 
 The way I fixed this was through manually converting my string into an integer. 
 Code snippet below:
@@ -204,6 +212,7 @@ After applying this small change the code snippet works perfectly. Although, ano
 
 
 ## Q13 The code snippet below looks for the first two elements that are out of order and swaps them; however, it is not producing the correct results. Rewrite the code so that it works correctly.
+
 ```python
 arr = [5, 22, 29, 39, 19, 51, 78, 96, 84]
 i = 0
@@ -218,6 +227,7 @@ print(arr)
 
 
 ## Q14 Demonstrate your algorithmic thinking through completing the following two tasks, in order: Create a flowchart to outline the steps for listing all prime numbers between 1 and 100 (inclusive) and write pseudocode for the process outlined in your flowchart.
+
 Pseudocode:
 -	Print operable potential prime numbers between 1 and 100 to use as a reference.
 -	Create a range beginning at 1 which increments by +1 each time we loop (which stops looping once 100 has been reached).
