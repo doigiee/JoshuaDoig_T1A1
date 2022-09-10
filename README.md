@@ -1,6 +1,6 @@
 # -Markdown JoshuaDoig_T1A1- 
 
-## Q1 Identify and explain common and important components and concepts of web development markup languages.
+## *Q1 Identify and explain common and important components and concepts of web development markup languages.*
 
 There are many important components and concepts of web development markup languages. One concept is that all markup languages change over time, may merge together, break into separate models or evolve. To explain, different markup languages may merge into one if their semantics or syntax is similar enough dependant on such things as names of elements, attributes or content (Tennison, 2002).  
 
@@ -12,7 +12,7 @@ From experience, markup languages can be useful to add elements such as color to
 
 
 
-## Q2 Define the features of the following technologies that are essential in terms of the development of the internet and explain how each technology has contributed to the development of the internet.
+## *Q2 Define the features of the following technologies that are essential in terms of the development of the internet and explain how each technology has contributed to the development of the internet.*
 
 Packets, IP addresses (IPv4 and IPv6), routers and routing and domains and DNS have all been essential in the development of the internet. The features and contribution to the development of the internet are as follows:
 
@@ -27,7 +27,7 @@ Routers and routing are used to send data as IP packets between networks; they r
 Finally, domains and DNS (domain name system) works as a foundation of the internet. Domains are used to match search queries, from a search engine, to content which is relevant. Rather than forcing users to recall the complex numbers representing an IP address (though they are still able to search this way) domains and DNS allow users of the internet an accessible and user-friendly way to search for desired content and navigate the internet (Fruhlinger, 2022).
 
 
-## Q3 Define the features of the following technologies that are essential in terms of the development of the internet: TCP, HTTP and HTTPS, web browsers and explain how each technology has contributed to the development of client and server communication over the internet.
+## *Q3 Define the features of the following technologies that are essential in terms of the development of the internet: TCP, HTTP and HTTPS, web browsers and explain how each technology has contributed to the development of client and server communication over the internet.*
 
 TCP (or transmitting control protocol) has many features including: ensuring data delivery to the application device or application and reliable service given through five functions; Segmentation, connection multiplexing, three-way handshake, sequencing and acknowledgment, and flow control through windowing (TCP Features and Functions Explained with Examples, 2022). TCP breaks down data from large packets into smaller then organizes data so that it can be transmitted between a server and a client. Before transmitting data, TCP establishes and maintains a secure connection between the source and its destination throughout the transferral (What is Transmission Control Protocol TCP/IP Model?, 2022). 
 Thus, TCP guarantees secure, swift and reliable communication between client and servers over the internet (What is Transmission Control Protocol TCP/IP Model?, 2022).
@@ -40,7 +40,7 @@ Web browsers usually also offer some form of developer tools. These tools let us
 Ultimately, Web browsers enable the displaying of numerous kinds of information and media and they act as a mainframe to which various internet protocols and procedures come together. Web browsers contribute to the development of client and server communication over the internet as they enable clear and easy to digest information to be displayed and they also enable numerous great features to be accessed and gathering in one location.
 
 
-## Q4 Identify THREE data structures used in the Python programming language and explain the reasons for using each.
+## *Q4 Identify THREE data structures used in the Python programming language and explain the reasons for using each.*
 
 Three basic data structures used in Python Programming include: lists, sets and tuples which are all array data structures. Each is unique with some similarities and each is used to organise and group data (Python Data Structures, 2022). Lists are used to store any data type which can be mutable and any data type can be stored within. Sets are an unordered collection of distinct immutable objects. Finally, Tuples are an immutable ‘collection of values separated by comma and enclosed in parentheses’ (Yıldırım, 2021).
 
@@ -50,7 +50,7 @@ Once developers understand these data structures they can use them to collect an
 Additionally, another data structure is an integer. Simply put, integers are the whole numbers between negative-infinity (-∞) and infinity (∞), with no fractional values (i.e. 0.1). They are used to give a positive or negative value to a targeted attribute and then carry out simple to complex arithmetic operations, such as addition, subtraction, multiplication and division (Anupama, 2021). An application of integers in the real world would include but is not limited to: checking accounts for sufficient funds, represented by either positive or negative numbers; depending on funds being deposited or withdrawn (Anupama, 2021).
 
 
-## Q5 Describe the features of interpreters and compilers and how they are different.
+## *Q5 Describe the features of interpreters and compilers and how they are different.*
 
 Compilers and interpreters are programs used to covert source code into codes which can be interpreted by computers. As discussed in our lectures and from this article, high level language (source code) is for humans to understand, so it’s necessary for compilers and interpreters to covert source code for computers to interpret the code (Difference between Compiler and Interpreter, 2019).
 
@@ -58,8 +58,8 @@ Interpreters and Compilers are very similar in the fact that they are used to tr
 Other mentionable features of interpreters and compilers include: interpreters translate till an error occurs, then pauses the translating and allows the programmer to work on the bug and fix it. Whilst compilers differ in the fact that they function by scanning the entire source code then only once completed does it show the errors and bugs to be fixed (Difference between Compiler and Interpreter, 2019). It’s also interesting to note that interpreters are used by the coding languages Ruby and Python whilst compliers are used with C and C++. These programming languages are quite commonly used so it’s interesting to see that both compliers and interpreters are adopted so vastly regardless of functionality. In conclusion, compilers and interpreters are very similar though differ slightly in terms of functionality and time required to operate.
 
 
-## Q6 Identify TWO commonly used programming languages and explain the benefits and drawbacks of each.
-Two commonly used programming languages are Python and JavaScript. Each has their expected benefits and negatives/drawbacks. 
+## *Q6 Identify TWO commonly used programming languages and explain the benefits and drawbacks of each.
+Two commonly used programming languages are Python and JavaScript. Each has their expected benefits and negatives/drawbacks.*
 
 Python, for instance, is considered to be versatile, flexible, extremely effective and easy to use and develop. Its syntax is similar to the English language, and compared to other programing language, Python allows users to get the tasks completed while using less lines of code. Python increases productivity as users don’t have to spend as much time learning the syntax and behaviour of the language so they can get stuck into their projects and code sooner rather than later. Python is also very flexible as it allows users to try new things and develop new applications, unlike other programming languages. Python also has a huge library of functions which can perform almost any function possibly needed which can still have meaningful and powerful functions. Python also has a massive community ranging from beginners and expert level engineers. Because of this following and continued growth, online Python guides, documents and resources keep expanding (Prasanna, 2022).
 
@@ -70,7 +70,7 @@ JavaScript likewise also has many positive and negative features. Positive featu
 Some disadvantages of JavaScript include: bugs and oversights exploited for malicious purposes while executing on client-side and lack of browser supporting JavaScript as some browsers sometimes display JavaScript incorrectly though these issues are decreasing as time goes on (The Advantages and Disadvantages of JavaScript, 2019).
 
 
-## Q7 Identify TWO ethical issues from the areas below and discuss the extent to which an IT professional is ethically responsible in terms of the issue. User’s personal information and GPS tracking data // metadata, MAC addresses, hardware fingerprints were selected. Identify laws related and discuss a case study.
+## *Q7 Identify TWO ethical issues from the areas below and discuss the extent to which an IT professional is ethically responsible in terms of the issue. User’s personal information and GPS tracking data // metadata, MAC addresses, hardware fingerprints were selected. Identify laws related and discuss a case study.*
 
 IT professionals are responsible for implementing many different ethical practises to ensure they operate without breaking laws, protocol or infringing on others rights. With the skills IT workers gain, it’s important that they be mindful of data leaks and potential cyber threats which may steal user metadata or GPS location data. IT professionals must also keep a personal check as to not abuse their skills in a malicious or unethical way. Many laws have been developed and lawsuits filed in the aim of preventing such threats, though ultimately it’s the individuals, companies and governments responsibility to enforce a robust implementation of ethics, guidelines and laws.
 
@@ -90,7 +90,7 @@ For this case, it’s obvious that any company or IT professional should take da
 
 
 
-## Q8 Explain control flow, using examples from the Python programming language.
+## *Q8 Explain control flow, using examples from the Python programming language.*
 
 Control flow refers to the order which a program executes code. In the case of Python, it is determined by conditional statements, loops and functional calls. These statements are represented by the clauses ‘if’, ‘elif’, ‘else’ and ‘while’ (Python in a Nutshell, 2022). When there are multiple statements it’s the clauses which determine when the block of statements terminates or loops infinitely which is why these clauses are important. Examples of these clauses can be represented as follows (Python in a Nutshell, 2022): 
 
@@ -112,14 +112,14 @@ while expression:
 To explain further, an ‘if’ statement checks the value of a Boolean statement to see if it’s true or false, if true the line will print, if false python will keep checking until a true statement is found but will also read the rest of the code without executing. Using ‘elif’, following the first ‘if’, and replacing the rest of the ‘if’s’ will check statements and stop checking once a true statement is found and skip reading the rest of the code, thus saving processing time. Alternatively, ‘else’ statements are used in combination with ‘if’ and ‘elif’ statements when no ‘if’ or ‘elif’ statements were executed, or in other words if both the ‘if’ and ‘elif’ statements were false the else statement gets executed (Ed — Digital Learning Platform, 2022).
 
 
-## Q9 Explain the difference between type coercion and type conversion. Are either of these used in Python?
+## *Q9 Explain the difference between type coercion and type conversion. Are either of these used in Python?*
 
 Type coercion and type conversion are similar in that they both convert data types from one data type into another; such as strings to numbers or integer to string. Though the key difference between the two is that type coercion is automatic and implicit whilst type conversion differs in that it can be implicit or explicit (Difference between Compiler and Interpreter, 2019). 
 
 Python uses a few types of implicit coercions to concatenate such as: mathematical operations, when adding integers and floats the answer will automatically be represented as a float thus changing the integer into a float as to not lose the decimal value, and also after using ‘print ( )’ when combining strings and non-strings as Python will automatically convert the non-string it to a string (Flury, 2015).Thus, when using python, engineers will most frequently have to explicitly convert one data type into another manually through executing commands. The command to change a data type into another most often requires the newly desired data type to be followed by the data type wishing to be transformed into contained within parenthesis. Some of these commands may include: ‘int (a, base)’- converts any data type to an integer, ‘float()’- to convert any data type into a floating point number, ‘ord()’ - .. a character into an integer, ‘hex()’ ... any integer into a hexadecimal string, ‘oct()’ – integer to octal string, ‘tuple()’- to a tuple, ‘set()’- returns the type after converting to set, ‘list()’- any data type into a list, ‘str()’- to convert an integer into a string and as so on (Type Conversion in Python - GeeksforGeeks, 2022). Though it’s notable to mention that there is the possibility to lose some data when manually forcing the transferal of one data type to another (Type Conversion in Python - GeeksforGeeks, 2022).
 
 
-## Q10 Explain data types, using examples.
+## *Q10 Explain data types, using examples.*
 
 There are many data types, some of which have been mentioned in previous answers, though this answer will attempt to delve deeper into their meaning and functions as well as provide some examples of data types used in Python. 
 
@@ -177,7 +177,7 @@ Dict1= {1: ‘silly’, 2: ‘42’, 3: ‘billy’}, Print(Dict[3]), Output: �
 The function of each is as follows: floats are true numbers with floating-point representations, complex numbers are represented by complex classes, strings are a sequence of Unicode characters which can be put in single/double/triple quotations, concatenation involves joining two or more strings together, slicing is used for extracting certain parts of a string, repetition is used to repeat a sequence of instruction a specified number of times, tuples are an ordered collection of objects identical to a list though tuples can’t be modified once created, sets are an unordered collection of items and finally dictionary is an unordered collection of data values used to store data to be pulled out at a later point as specified (Sharma, 2021).
 
 
-## Q11 Here’s the problem: “There is a restaurant serving a variety of food. The customers want to be able to buy food of their choice. All the staff just quit, how can you build an app to replace them?” Identify the classes you would use to solve the problem and write a short explanation of why you would use the classes you have identified.
+## *Q11 Here’s the problem: “There is a restaurant serving a variety of food. The customers want to be able to buy food of their choice. All the staff just quit, how can you build an app to replace them?” Identify the classes you would use to solve the problem and write a short explanation of why you would use the classes you have identified.*
 
 I would need to build an app which:
 1. Greets the customers 
@@ -194,7 +194,7 @@ Finally I’d like my app to be full of sprites, animations, visual effects and 
 
 
 
-## Q12 Identify and explain the error in the code snippet below that is preventing correct execution of the program.
+## *Q12 Identify and explain the error in the code snippet below that is preventing correct execution of the program.*
 
 The first problem I’m seeing is that python is unable to combine a string and a integer “TypeError: unsupported operand type(s) for /: 'str' and 'int'”. 
 The way I fixed this was through manually converting my string into an integer. 
@@ -211,7 +211,7 @@ print(f"The result is: {fahrenheit}.")
 After applying this small change the code snippet works perfectly. Although, another thing I noticed, whether it was intentionally or not, is there is no statement asking the user ‘what is the current Celsius ?’. So I would also consider putting in a print () statement asking what the current temperature is in Celsius.
 
 
-## Q13 The code snippet below looks for the first two elements that are out of order and swaps them; however, it is not producing the correct results. Rewrite the code so that it works correctly.
+## *Q13 The code snippet below looks for the first two elements that are out of order and swaps them; however, it is not producing the correct results. Rewrite the code so that it works correctly.*
 
 ```python
 arr = [5, 22, 29, 39, 19, 51, 78, 96, 84]
@@ -226,7 +226,7 @@ print(arr)
 ```
 
 
-## Q14 Demonstrate your algorithmic thinking through completing the following two tasks, in order: Create a flowchart to outline the steps for listing all prime numbers between 1 and 100 (inclusive) and write pseudocode for the process outlined in your flowchart.
+## *Q14 Demonstrate your algorithmic thinking through completing the following two tasks, in order: Create a flowchart to outline the steps for listing all prime numbers between 1 and 100 (inclusive) and write pseudocode for the process outlined in your flowchart.*
 
 Pseudocode:
 -	Print operable potential prime numbers between 1 and 100 to use as a reference.
@@ -256,7 +256,7 @@ for num in range(1, 100 + 1):
 
 
 
-## Q15 Write pseudocode OR Python code for the following problem: You have access to two variables: raining (boolean) and temperature (integer). If it’s raining and the temperature is less than 15 degrees, print to the screen “It’s wet and cold”, if it is less than 15 but not raining print “It’s not raining but cold”. If it’s greater than or equal to 15 but not raining print “It’s warm but not raining”, and otherwise tell them “It’s warm and raining”.
+## *Q15 Write pseudocode OR Python code for the following problem: You have access to two variables: raining (boolean) and temperature (integer). If it’s raining and the temperature is less than 15 degrees, print to the screen “It’s wet and cold”, if it is less than 15 but not raining print “It’s not raining but cold”. If it’s greater than or equal to 15 but not raining print “It’s warm but not raining”, and otherwise tell them “It’s warm and raining”.*
 
 ```python
 #The below python code allows users to assign values to variables and get an output in regards to the weather.
@@ -294,7 +294,7 @@ else :
 ```
 
 
-## Q16 ACME Corporation are hiring a new junior developer evaluate them by assessing their skills. Write and program to asess, grade and give feedback to user.
+## *Q16 ACME Corporation are hiring a new junior developer evaluate them by assessing their skills. Write and program to asess, grade and give feedback to user.*
 
 
 
