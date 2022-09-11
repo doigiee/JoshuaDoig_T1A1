@@ -1,6 +1,6 @@
 # JoshuaDoig_T1A1
 
-find online at [github](https://github.com/doigiee/JoshuaDoig_T1A1/blob/main/README.md)
+find markdown file online at [github](https://github.com/doigiee/JoshuaDoig_T1A1/blob/main/README.md)
 
 ---
 ## *Q1 Identify and explain common and important components and concepts of web development markup languages.*
